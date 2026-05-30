@@ -9,7 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Game Client Programmer from South Korea.<br/>
+  #### :raising_hand: Currently working as a game developer in Korea. Trying to be someone to entertain.<br/>
+  現在、韓国でゲーム開発者として働いております。 誰かに喜びを与える人になろうとしています。
   <br/>
   <br/>
   
